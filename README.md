@@ -13,4 +13,4 @@
          http://127.0.0.1:8000.
          
    + OR USING THE APACHHE SERVER 
-         http://localhost/productAdministrationLaravel10/public
+         http://localhost/laravel10-products_admin/public
